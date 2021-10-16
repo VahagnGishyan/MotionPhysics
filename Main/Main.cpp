@@ -2,7 +2,6 @@
 #include <memory>
 #include <map>
 
-#include "../Engine/Resource.hpp"
 #include "../Engine/ObjectsMultitude.hpp"
 #include "../Engine/Map.hpp"
 #include "../Visualization/Console.hpp"
